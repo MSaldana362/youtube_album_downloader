@@ -1,4 +1,6 @@
 # YouTube Album Downloader
+# Manuel Saldana
+
 
 # Required installs for OS:
 #   youtube-dl
